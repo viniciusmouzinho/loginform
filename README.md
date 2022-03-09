@@ -10,3 +10,5 @@ Neste desafio você vai construir uma página para a captação de leads ou news
 
 - HTML
 - CSS
+
+![carro](https://user-images.githubusercontent.com/99989752/157354251-8095262c-87a6-403f-97e7-315e280c469a.png)
