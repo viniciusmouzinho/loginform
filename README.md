@@ -1,15 +1,15 @@
-## Pricing Table
+## <a href="https://viniciusmouzinho.github.io/loginform/"> 👩‍🍳 Login Form </a>
 
-Tecnologias estudadas no módulo Discover da Rocketseat.
+## ✏️  Descrição 
+Desafio de criação de um formulário de login usando HTML e CSS. Tecnologias estudadas no módulo Discover da Rocketseat.
 
 ## 💻 Sobre o desafio
-Neste desafio você vai construir uma página para mostrar as opções de planos disponíveis para assinatura.
+Neste desafio você vai construir uma página para a captação de leads ou newsletter.
 
 ## 🚀 **Techs**
 
 - HTML
 - CSS
 
-
-![pricing table](https://user-images.githubusercontent.com/99989752/158250842-1c23f590-4e68-47ac-9fc5-e12c41b4a3f9.png)
+<a href="https://viniciusmouzinho.github.io/loginform/">![carro](https://user-images.githubusercontent.com/99989752/157354251-8095262c-87a6-403f-97e7-315e280c469a.png)</a>
 
